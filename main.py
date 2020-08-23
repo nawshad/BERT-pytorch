@@ -26,7 +26,6 @@ def main():
                 config[key] = default_value
     else:
         config = vars(args)  # convert to dictionary
-
     args.function(**config, config=config)
 
 

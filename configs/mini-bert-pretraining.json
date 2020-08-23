@@ -1,5 +1,5 @@
 {
-  "data_dir": "data/wiki",
+  "data_dir": "data/example",
   "train_path": "train.txt",
   "val_path": "val.txt",
   "dictionary_path": "dictionary.txt",
